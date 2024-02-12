@@ -4,7 +4,6 @@ public class P283 {
     public static void main(String[] args) {
         int[] nums = {0, 1, 2, 0, 3, 0};
         moveZeroes(nums);
-
         System.out.println(Arrays.toString(nums));
     }
 
